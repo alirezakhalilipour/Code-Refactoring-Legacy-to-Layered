@@ -9,7 +9,7 @@ This Github project contains descriptions of lab package for layer separation ex
 
 The BLDALmono package consists the middle layer of a monolithic system. This package includes 4 classes that are related to an educational system: teacher, student, course and section.
 
-The BL_DAL_Separated package is the resuling ssoftware after separating the layers; separating the data access layer from the commercial layer. Thus, the data access codes are separated from the business codes in the first package and transferred to another layer.
+The BL_DAL_Separated package is the resulting software after separating the layers; separating the data access layer from the commercial layer. Thus, the data access codes are separated from the business codes in the first package and transferred to another layer.
 
 ========================================================================
 
